@@ -1,0 +1,21 @@
+{
+  "name": "browser-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "@openai/agents": "^0.0.17",
+    "dotenv": "^17.2.1",
+    "openai": "^5.12.2",
+    "puppeteer": "^22.15.0",
+    "zod": "^3.25.76"
+  }
+}
