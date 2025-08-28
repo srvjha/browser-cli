@@ -5,14 +5,16 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-   "start": "node src/index.js"
+    "start": "node src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.12.1",
   "dependencies": {
+    "@ai-sdk/google": "^1.2.22",
     "@openai/agents": "^0.0.17",
+    "@openai/agents-extensions": "^0.0.17",
     "dotenv": "^17.2.1",
     "openai": "^5.12.2",
     "puppeteer": "^22.15.0",
