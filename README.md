@@ -146,4 +146,4 @@ This project goes beyond the initial assignment by demonstrating more complex au
 
 ## **🎥 Video Demo**
 
-\[**https://youtu.be/reUhMUI02dM**\]
+[**https://youtu.be/reUhMUI02dM**](https://youtu.be/reUhMUI02dM)
